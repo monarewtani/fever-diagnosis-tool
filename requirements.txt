@@ -1,1 +1,2 @@
-streamlit fpdf
+streamlit==.35.0
+f pdf==1 .7.2
